@@ -1,0 +1,19 @@
+body {
+    background-color: bisque;
+    text-align: center;
+}
+
+img {
+    text-align: center;
+    max-width: 736px;
+    max-height: 736px;
+    border-radius: 5%;
+}
+
+.textz {
+    color:chartreuse;
+}
+
+.last {
+    color:maroon;
+}
