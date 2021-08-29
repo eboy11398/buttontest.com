@@ -20,3 +20,11 @@ function anime() {
     document.getElementById("L").src = "https://image.winudf.com/v2/image1/Y29tLmJydWhwcm9kLnF1aW50dXBsZXRzaWNoaWthbmFrYW5vX3NjcmVlbl81XzE2MTYzMzM0ODFfMDQz/screen-5.jpg?fakeurl=1&type=.jpg";
 
 }
+
+function sor() {
+    document.getElementById("blanc").style.display = "block";
+}
+
+function ser() {
+    document.getElementById("lol").style.display = "none";
+}
