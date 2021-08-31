@@ -19,6 +19,27 @@ img {
     border-radius: 5%;
 }
 
+button {
+    cursor: pointer;
+    background-color: rgba(225, 225, 225, .50);
+    font-size: 1rem;
+    border: 1px solid snow;
+    padding: 4px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+
+.grid {
+    display: grid;
+    margin-left: 525px;
+    margin-right: 525px;
+}
+
+button:hover {
+    background-color:rgba(123, 255, 152, 0.979) ;
+}
+
+
 .textz {
     color:chartreuse;
 }
