@@ -1,5 +1,5 @@
 body {
-    background-color: bisque;
+    background-image: url("https://www.onlygfx.com/wp-content/uploads/2016/08/wrinkled-brown-paper-1.jpg");
     text-align: center;
 }
 
@@ -35,6 +35,14 @@ button {
     display: grid;
     margin-left: 525px;
     margin-right: 525px;
+}
+
+.M {
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px solid ghostwhite;
+    /* Yeah so it just straight up ignores the text align right because of the body text align which states that it should be centered*/
 }
 
 button:hover {
